@@ -5,10 +5,10 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:mobile_design/constants/api_key.dart';
 import 'package:mobile_design/constants/temperature_icon.dart';
-import 'package:mobile_design/location_info.dart';
-import 'package:mobile_design/temperature.dart';
+import 'package:mobile_design/widgets/location_info.dart';
+import 'package:mobile_design/widgets/temperature.dart';
 import 'package:mobile_design/utils.dart';
-import 'package:mobile_design/weather_info_row.dart';
+import 'package:mobile_design/widgets/weather_info_row.dart';
 import 'package:weather/weather.dart';
 
 class Homescreen extends StatefulWidget {

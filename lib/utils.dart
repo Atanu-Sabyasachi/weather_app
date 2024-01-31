@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_design/city_selection_dialog.dart';
+import 'package:mobile_design/widgets/city_selection_dialog.dart';
 import 'package:mobile_design/constants/cities.dart';
 import 'package:weather_icons/weather_icons.dart';
 
